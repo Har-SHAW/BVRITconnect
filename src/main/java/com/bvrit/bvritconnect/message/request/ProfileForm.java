@@ -8,7 +8,7 @@ public class ProfileForm{
     private String hobbies;
     private String achievements;
     private String projects;
-    private String  goodat;
+    private String goodat;
     private String languages;
     private String summary;
 	public String getName() {

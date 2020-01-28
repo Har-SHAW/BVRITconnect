@@ -26,6 +26,7 @@ public class Post {
 	@NotBlank
 	private String title;
 
+	@NotBlank
 	private String description;
 
 	private String mediaUrl;
